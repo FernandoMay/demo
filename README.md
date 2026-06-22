@@ -1,22 +1,14 @@
-# demo
+## Micronaut 3.5.4 Documentation
 
-Micronaut Demo Application
+- [User Guide](https://docs.micronaut.io/3.5.4/guide/index.html)
+- [API Reference](https://docs.micronaut.io/3.5.4/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/3.5.4/guide/configurationreference.html)
+- [Micronaut Guides](https://guides.micronaut.io/index.html)
+---
 
-## Overview
+- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
+## Feature http-client documentation
 
-| Attribute | Details |
-|-----------|---------|
-| **Language** | Java |
-| **Size** | ~0.1 MB |
-| **Last Updated** | 2022-08-03T01:11:33Z |
+- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
-## Getting Started
 
-```bash
-git clone https://github.com/FernandoMay/demo.git
-cd demo
-```
-
-## License
-
-MIT
